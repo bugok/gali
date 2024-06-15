@@ -1,0 +1,14 @@
+# Temporary MacOS files
+.DS_Store
+
+# Vim temporary files
+*~
+*.swp
+*.swo
+
+# public directory - which is stored in the gh-pages branch
+/public
+
+resources/
+
+.hugo_build.lock
