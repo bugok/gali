@@ -1,0 +1,21 @@
+languageCode = "he"
+languageName = "עברית"
+languageDirection = "rtl"
+weight = 1
+
+title = "האתר של גלי לרנר"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["posts"]
+  description = "דברים שיש לגלי לכתוב"
+
+[params.author]
+  name = "גלי לרנר"
+  #image = "img/avatar.png"
+  headline = "דברים שיש לגלי לכתוב"
+  # bio = "A little bit about you"
+  links = [
+  ]
